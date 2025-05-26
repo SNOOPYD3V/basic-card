@@ -8,4 +8,9 @@ body {
 .avatar{
     width: 128px;
     height: 128px;
+    display: inline-flex;
+    position: relative;
+    top: 25px;
+    right: 225px;
+    border-radius: 10vw;
 }
