@@ -1,5 +1,7 @@
 body {
     background-image: linear-gradient(to top right, rgba(255,56,103), rgba(255,200,155), rgba(211,126,198));
+    padding: auto;
+    margin: auto;
 }
 .fondo {
     width: 300px;
@@ -10,7 +12,4 @@ body {
     height: 128px;
     display: inline-flex;
     position: relative;
-    top: 25px;
-    right: 225px;
-    border-radius: 10vw;
 }
